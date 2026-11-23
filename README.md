@@ -1,5 +1,7 @@
 # daily_stock_analysis 速查表 | Daily Stock Analysis Cheatsheet | Guía rápida de daily_stock_analysis
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **收盘后，它自动把自选股的结论、风险和检查清单推到你手机上——但先看合规卡：评分是 AI 算的，可以错，不是买卖指令**
 
 > 一页看懂 ZhuLinsen/daily_stock_analysis：一个由大模型驱动的多市场自选股每日分析系统。它覆盖 A 股、港股、美股、日股、韩股、台股与 ETF，把行情、K 线、技术指标、新闻与公告聚到一起，每天自动生成一份决策仪表盘——核心结论、评分、趋势、买卖点位、风险警报、催化因素和操作检查清单都在里面——再推送到 Telegram、Discord、Slack 和邮箱，还带 Web 工作台、回测与 15 种内置策略，并能用 agent 直接问股。它不是一个模型，也不是一个交易框架，而是普通投资者每天真在用的成品系统。
